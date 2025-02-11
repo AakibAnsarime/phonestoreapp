@@ -8,8 +8,12 @@ const Hero: React.FC = () => {
       <Carousel
         placeholder=""
         onMouseEnter={() => {}}
+        onPointerEnterCapture={() => {}}
+
 
         onMouseLeave={() => {}}
+        onPointerLeaveCapture={() => {}}
+
 
 
         className="rounded-none h-full"
