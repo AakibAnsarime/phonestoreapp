@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 13 Pro",
+      "price": 999,
+      "rating": 5,
+      "image": "/images/collection_01.png",
+      "category": "smartphone"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "price": 799,
+      "rating": 4,
+      "image": "/images/samsung1.jpg",
+      "category": "smartphone"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "rating": 5,
+      "image": "/images/samsung2.jpg",
+      "category": "headphones"
+    },
+    {
+      "id": 4,
+      "name": "AirPods Pro",
+      "price": 249,
+      "rating": 4,
+      "image": "/images/samsung3.jpg",
+      "category": "headphones"
+    },
+    {
+      "id": 5,
+      "name": "Google Pixel 6",
+      "price": 599,
+      "rating": 4,
+      "image": "/images/samsung4.jpg",
+      "category": "smartphone"
+    },
+    {
+      "id": 6,
+      "name": "OnePlus 9 Pro",
+      "price": 899,
+      "rating": 4,
+      "image": "/images/samsung5.jpg",
+      "category": "smartphone"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "comment": "Great products and excellent service! Really satisfied with the quality and support.",
+      "photo": "/images/profile1.jpg",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "comment": "Amazing quality and fast delivery. Would definitely recommend to others!",
+      "photo": "/images/profile2.jpg",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "comment": "Best phone shopping experience ever. The customer service is outstanding!",
+      "photo": "/images/profile3.jpg",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "comment": "Very happy with my purchase. The prices are competitive and the quality is great.",
+      "photo": "/images/profile4.jpg",
+      "rating": 4
+    }
+  ]
+}

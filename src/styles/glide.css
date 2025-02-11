@@ -1,0 +1,39 @@
+.glide {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.glide__track {
+  overflow: hidden;
+}
+
+.glide__slides {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.glide__slide {
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.glide__bullet--active {
+  background-color: #000 !important;
+}
+
+.glide__arrows {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.glide__arrow {
+  pointer-events: auto;
+}

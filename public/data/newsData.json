@@ -1,0 +1,39 @@
+{
+  "newsItems": [
+    {
+      "id": 1,
+      "title": "New iPhone 15 Pro Review",
+      "author": "Tech Admin",
+      "content": "The latest iPhone brings revolutionary features including a titanium frame and advanced camera system that redefines mobile photography.",
+      "image": "/images/news1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S24 Launch Event",
+      "author": "Mobile Expert",
+      "content": "Samsung's newest flagship brings AI capabilities and impressive performance improvements that set new industry standards.",
+      "image": "/images/news2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Best Budget Phones of 2024",
+      "author": "Phone Reviewer",
+      "content": "Discover the top budget-friendly smartphones that offer premium features without breaking the bank.",
+      "image": "/images/news3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Future of Foldable Phones",
+      "author": "Tech Insider",
+      "content": "Exploring the next generation of foldable devices and how they're changing the smartphone landscape.",
+      "image": "/images/news4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mobile Gaming Revolution",
+      "author": "Gaming Expert",
+      "content": "How modern smartphones are transforming mobile gaming with console-quality experiences and cloud gaming.",
+      "image": "/images/news5.jpg"
+    }
+  ]
+}
